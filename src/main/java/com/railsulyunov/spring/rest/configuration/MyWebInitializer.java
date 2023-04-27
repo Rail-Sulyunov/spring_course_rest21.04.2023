@@ -1,5 +1,6 @@
 package com.railsulyunov.spring.rest.configuration;
 
+
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 public class MyWebInitializer extends
